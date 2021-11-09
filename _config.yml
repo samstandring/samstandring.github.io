@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.MyName.com
-title: My Name
-email: email@gmail.com
-author: MYNAME
-description: "MyName's Personal Page"
+url: https://samstandring.github.io/
+title: Samantha Standring
+email: ssmit038@ucr.edu
+author: Samantha Standring
+description: "Samantha Standring's Personal Page"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,13 +26,13 @@ plugins:
 social:
   - icon: github
     title: github
-    url: https://github.com/NyName 
+    url: https://github.com/samstandring 
   - icon: envelope-o
     title: email
-    url: mailto:NyName@gmail.com
-  - icon: linkedin
-    title: linkedin
-    url: https://www.linkedin.com/in/NyName/
+    url: mailto:ssmit038@ucr.edu
+#  - icon: linkedin
+#    title: linkedin
+#    url: https://www.linkedin.com/in/NyName/
 #  - icon: file-pdf-o
 #    title: CV
 #    url: img/MyCV.pdf
