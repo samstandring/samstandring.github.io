@@ -1,15 +1,15 @@
 ---
 layout: default
-img: phd.jpg
+img: emesinae.jpg
 category: Education
-title: PhD in Genetics
-description: 2012-2016
+title: PhD in Entomology
+description: 2017-2023
 ---
 
-* __2012 - 2016__
+* __2017 - 2023__
 * University of California
-* Thesis Title
-* Description
-* Advisor: Dr. PI Name
-* Scholarship from: NSF
+* Systematics of Emesinae
+* Description ...
+* Advisor: Dr. Christiane Weirauch
+* Scholarship from: NSF GRFP
 
