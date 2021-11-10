@@ -2,10 +2,11 @@
 layout: default
 img: dna.jpg
 category: Experiences
-title: "Molecular Biology Bioinformatic Scientist"
+title: "Workshops attended"
 description: |
 ---
 
-* __2016 – 2017__
-* *Company Name*
-* Activities: Project description...
+* 2019: Reduviidae Morphology, UC Riverside
+* 2019: Applied Phylogenetics, Bodega Bay CA
+* 2018: aTRAM2, Champaign IL
+* 2018: Molecular Evolution, Marine Biological Laboratory, Woods Hole MA
