@@ -6,7 +6,6 @@ title: "International Fieldwork"
 description: |
 ---
 
-* __2017 – Current__
 * 2019: Panama, Barro Colorado Island Research Station
 * 2019 & 2017: Cameroon, Bouamir research station
 * 2019: Gabon, Lope national park, Ivindo national park, Crystal mountain
