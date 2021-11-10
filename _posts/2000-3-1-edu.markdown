@@ -1,6 +1,6 @@
 ---
 layout: default
-img: bachelor.jpg
+img: hetaerina.jpg
 category: Education
 title: Bachelor's in Biological Sciences
 description: |
