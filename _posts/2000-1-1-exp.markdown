@@ -1,7 +1,7 @@
 ---
 layout: default
 img: code.jpg
-category: Experiences
+category: Fieldwork
 title: "Postdoctoral Researcher"
 description: |
 ---
