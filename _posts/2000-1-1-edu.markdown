@@ -3,10 +3,10 @@ layout: default
 img: Emesinae.jpg
 category: Education
 title: PhD in Entomology
-description: 2017-2023
+description: 2017-Present
 ---
 
-* __2017 - 2023__
+* __2017 - Present__
 * University of California
 * Systematics of Emesinae
 * Description ...
