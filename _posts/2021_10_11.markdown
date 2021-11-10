@@ -1,0 +1,10 @@
+---
+layout: default
+img: Panama2019-Polauchenia.JPG
+category: Projects
+title: "Systematics of thread-legged assassin bugs (Emesinae: Reduviidae)"
+description: |
+---
+
+* Reconstruct phylogenetic hypothesis of Emesinae sensu lato (Emesinae, Saicinae, Visayanocorinae: Reduviidae)
+* Revise tribes within Emesinae sensu lato using ancestral character state reconstruction of morphological matrix
