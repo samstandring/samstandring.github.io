@@ -1,9 +1,11 @@
 ---
 layout: default
-img: project.jpg
+img: mangabea.tif
 category: Projects
-title: "Project Name"
+title: "Synonymy of Mangabea and Stenorhamphus, with the description of two new species (Hemiptera: Reduviidae: Emesinae: Collartidini)"
 description: |
 ---
 
-* Add here the project description...
+* Synonymize fossil genus _Collarhamphus_ and extant genera _Mangabea_ and _Stenorhamphus_
+* Revised diagnosis and description of _Stenorhamphus_
+* Describe _Stenorhamphus segarak_ and _Stenorhamphus phuphan_
