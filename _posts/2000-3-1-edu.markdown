@@ -8,7 +8,8 @@ description: |
 
 * __2011 - 2017__
 * Brigham Young University
-* Advisor: Dr. Bybee
+* Advisors: Dr. Riley Nelson, Dr. Seth Bybee
+* Evolution of rubyspotted damselflies (Hetaerina: Calopterygidae)
 
 
 
