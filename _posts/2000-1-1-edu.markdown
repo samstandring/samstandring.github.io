@@ -8,8 +8,6 @@ description: 2017-Present
 
 * __2017 - Present__
 * University of California, Riverside
-* Systematics of Emesinae
 * Advisor: Dr. Christiane Weirauch
-
-Reduviidae are an entirely predatory family within Heteroptera with ~6,800 species, extensive morphological diversity and numerous different life strategies (e.g. prey specialization on termites, bees and millipedes). Emesinae stand out within Reduviidae as a subfamily with cosmopolitan distribution, unique morphology and a range of spiderweb associated behavior (i.e. free-living, kleptoparasitism, arachnophagy, and choosing between kleptoparasitism and arachnophagy). Despite the fascinating behavior recorded in two species of Emesinae (plucking the web to lure the spider closer followed by arachnophagy) behavioral data remains unavailable for most species. I am testing subfamily and tribal level relationships within Emesinae sensu lato for the first time with molecular data. With this phylogeny I am additionally studying the evolution of spiderweb associated behaviors with ancestral state reconstruction. Spiders are incredible predators and uncovering the evolution of spiderweb associated behaviors in Emesinae will answer questions never before examined. 
+* Systematics and evolution of true bugs (Heteroptera) and thread-legged assassin bugs (Emesinae: Reduviidae)
 
