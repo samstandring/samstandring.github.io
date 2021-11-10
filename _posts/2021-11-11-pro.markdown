@@ -1,0 +1,11 @@
+---
+layout: default
+img: Panama2019-emesinaenymphonweb.JPG
+category: Projects
+title: "Divergence dating and biogeography of Emesinae sensu lato"
+description: |
+---
+
+* Test hypothesis that cosmopolitan genera (_Ploiaria, Gardena, Stenolemus_ and _Empicoris_) share similar dispersal patterns
+* Divergence dating in RevBayes including 6 ingroup fossils
+* Biogeographic analyses (DEC) in RevBayes
