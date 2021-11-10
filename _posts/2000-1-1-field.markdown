@@ -1,12 +1,13 @@
 ---
 layout: default
 img: code.jpg
-category: Fieldwork
-title: "Postdoctoral Researcher"
+category: Experiences
+title: "International Fieldwork"
 description: |
 ---
 
 * __2017 – Current__
-* University of California, Riverside
-* Position: Postdoctoral Researcher
-* Activities: Project description...
+* 2019: Panama, Barro Colorado Island Research Station
+* 2019 & 2017: Cameroon, Bouamir research station
+* 2019: Gabon, Lope national park, Ivindo national park, Crystal mountain
+* 2017: Brazil, Manaus, Belem, São Paulo
