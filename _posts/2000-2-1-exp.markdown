@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dna.jpg
+img: bodegabay2.jpg
 category: Experiences
 title: "Workshops attended"
 description: |
