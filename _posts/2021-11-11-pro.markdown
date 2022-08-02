@@ -2,7 +2,7 @@
 layout: default
 img: Emesinae.JPG 
 alt: Emesinae
-width: 100px
+width: 90px
 category: Projects
 title: "Divergence dating and biogeography of Emesinae sensu lato"
 description: |
