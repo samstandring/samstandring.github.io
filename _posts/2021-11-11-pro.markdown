@@ -1,6 +1,6 @@
 ---
 layout: default
-img: Panama2019-emesinaenymphonweb.JPG
+img: Emesinae.JPG
 category: Projects
 title: "Divergence dating and biogeography of Emesinae sensu lato"
 description: |
