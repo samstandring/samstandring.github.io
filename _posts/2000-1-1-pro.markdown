@@ -1,6 +1,6 @@
 ---
 layout: default
-img: Mangabea.png
+img: RCW_4869_edits.jpg
 category: Projects
 alt: Mangabea
 width: 90px
