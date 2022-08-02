@@ -2,6 +2,8 @@
 layout: default
 img: Mangabea.png
 category: Projects
+alt: Mangabea
+width: 90px
 title: "Synonymy of Mangabea and Stenorhamphus, with the description of two new species (Hemiptera: Reduviidae: Emesinae: Collartidini)"
 description: |
 ---
