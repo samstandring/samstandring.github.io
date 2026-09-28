@@ -3,7 +3,7 @@ layout: default
 img: Emesinae.JPG
 category: Education
 title: PhD in Entomology
-description: 2017-Present
+description: 2017-2023
 ---
 
 * __2017 - Present__
